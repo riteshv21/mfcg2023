@@ -1,5 +1,5 @@
 # Assignment 1
-This assignment focuses on implementing a 3D vector class and its related operations. Your task is to develop a header file named "vector.h" that encompasses the following features:
+This assignment focuses on implementing a 3D vector class and its related operations. Your task is to develop a header file named `vector.h` that encompasses the following features:
 
 3D Vector Class:
 
