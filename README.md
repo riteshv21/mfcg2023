@@ -3,7 +3,7 @@ This assignment focuses on implementing a 3D vector class and its related operat
 
 3D Vector Class:
 
-Define a class named "Vector3" that represents a 3D vector.
+Define a class named `Vector3` that represents a 3D vector.
 The class should have the necessary member variables to store the x, y, and z components of the vector.
 Implement appropriate constructors and destructors as per the requirements.
 Length of Vector Function:
@@ -44,12 +44,12 @@ Overload the (-) operator to enable subtraction between two vectors.
 The overloaded operator should take another Vector3 object as an argument.
 The result should be a new Vector3 object representing the difference between the two vectors.
 
-Note: You are expected to implement the "vector.h" header file containing the class definition and member function implementations as specified above. Additionally, include any necessary member variables or helper functions to facilitate the operations.
+Note: You are expected to implement the `vector.h` header file containing the class definition and member function implementations as specified above. Additionally, include any necessary member variables or helper functions to facilitate the operations.
 
 Submission Instructions:
-Fork the given github repository. Switch to the Assignment_1 brnach. It should already have main.cpp and vector.h files. Write your implementation code in the vector.h file. Demonstrate all your implementations in the main.cpp file. We have done a sample implementation of print() function to give you an idea. Make sure the project builds properly using CMake and you get a valid output. Make a PR(pull request) to the Assignmnet_1 branch of the original repo before deadline.
+Fork the given github repository. Switch to the Assignment_1 branch. It should already have `main.cpp` and `vector.h` files. Write your implementation code in the vector.h file. Demonstrate all your implementations in the `main.cpp` file. We have done a sample implementation of `print()` function to give you an idea. Make sure the project builds properly using CMake and you get a valid output. Make a PR (pull request) to the Assignmnet_1 branch of the original repo before deadline.
 
-PS: If you feel stuck don’t forget to read up the CMake documentation. For inspiration look at already implemented vector libraries(don’t get misled by the DSA vala vector.h though ;) ). Dont hesitate to ask mentors if you are stuck anywhere, we are here to help.
+PS: If you feel stuck don’t forget to read up the CMake documentation. For inspiration look at already implemented vector libraries(don’t get misled by the DSA vala `vector.h` though ;) ). Dont hesitate to ask mentors if you are stuck anywhere, we are here to help.
 
 Submission deadline : 23rd May, 11:59 PM
 
